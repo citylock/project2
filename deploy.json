@@ -1,0 +1,8 @@
+{
+    "REPO_URL":"https://github.com/citylock/test.git",
+    "PROJECT_NAME":"project2",
+    "REMOTE_HOST_SSH":"67.209.121.43:7822",
+    "REMOTE_HOST":"67.209.121.43",
+    "REMOTE_USER":"django",
+    "REMOTE_PASSWORD":"ct2235"
+}
